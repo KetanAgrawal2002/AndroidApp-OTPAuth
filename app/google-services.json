@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1086695906015",
-    "project_id": "otpauthentication-aa03c",
-    "storage_bucket": "otpauthentication-aa03c.appspot.com"
+    "project_number": "773592568411",
+    "project_id": "otp-authentication-ketan",
+    "storage_bucket": "otp-authentication-ketan.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1086695906015:android:e6a9e401180aa82524276a",
+        "mobilesdk_app_id": "1:773592568411:android:a22fc3de28c5e8ab3de57e",
         "android_client_info": {
           "package_name": "com.example.otpauthentication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1086695906015-mi9vfglhg0nlde68iq0hlv5ersitoid6.apps.googleusercontent.com",
+          "client_id": "773592568411-hm25ne574vls0vhqurhr4o561if5vots.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDeLLYfdrR0ZzsJK3SnDYDhWe-ifRMnDUM"
+          "current_key": "AIzaSyC1vGvrK5MNBx8LDe93fUktzCnPt4VGqgk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1086695906015-mi9vfglhg0nlde68iq0hlv5ersitoid6.apps.googleusercontent.com",
+              "client_id": "773592568411-hm25ne574vls0vhqurhr4o561if5vots.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
